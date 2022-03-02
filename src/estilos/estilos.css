@@ -1,0 +1,9 @@
+@import "menu.css";
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+html , body , #root {
+    height: 100%;
+}

@@ -1,0 +1,23 @@
+nav {
+    padding: 1em;
+    font-family: font-family;
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    background-color: black;
+  }
+
+  nav a {
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding-left: 12em;
+    padding-right: 12em;
+    list-style: none;
+    background: #333;
+  }
+  
+  nav a:hover {
+    background: rgb(211, 41, 41);
+    color: white;
+  }
