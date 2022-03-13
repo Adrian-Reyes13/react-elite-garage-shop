@@ -4,6 +4,7 @@ import Header from "./Header"
 import Navbar from "./components/Navbar.js"
 import Footer from './Footer'
 import CartWidget from './components/CartWidget'
+import ItemCount from './components/ItemCount'
 
 const App = () => {
   return <>
@@ -11,6 +12,7 @@ const App = () => {
         <Footer/>
         <Navbar/>
         <CartWidget/>
+        <ItemCount/>
 
   </>
     
